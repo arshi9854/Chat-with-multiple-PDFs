@@ -32,6 +32,8 @@ The app integrates local LLMs (like Gemma3 or HuggingFace models) for conversati
 ##How It Works
 
 
+![PDF-LangChain](https://github.com/user-attachments/assets/071912b1-fa04-4a22-8cf8-286092df1ca0)
+
 -The application follows these steps to provide responses to your questions:
 
 -PDF Loading: The app reads multiple PDF documents and extracts their text content.
